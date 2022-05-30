@@ -1,3 +1,3 @@
 # Teste
 
-Varias coisas que não podem ser apagadas.
+Fulano alterou aqui sem quebrar nada.
